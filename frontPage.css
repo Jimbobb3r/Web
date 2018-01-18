@@ -23,7 +23,7 @@ body {
   color: #D3D3D3;
 }
 
-p, h1 {
+p, h1, h6 {
     color: grey;
     text-align: center; 
 } 
