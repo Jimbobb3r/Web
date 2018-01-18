@@ -1,8 +1,6 @@
-## My Pages: 
+## My Page: 
 
-- https://jimbobb3r.github.io/Web/
-
-- https://jimbobb3r.github.io/navbar_footer/
+- https://jimbobb3r.github.io/Web/ 
 
 ## Useful Sites:
  
