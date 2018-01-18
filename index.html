@@ -8,18 +8,17 @@
 	<!-- Metadata -->
 	<meta charset="UTF-8"> 
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	
 	<meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Viewport = Device Width -->
 	
-	<meta name="description" content="HTML Template">
-	<meta name="keywords" content="Jimbobb3r, Jimbob1980, SDeLiath"> <!-- Search Engine Keywords -->
+	<meta name="description" content="Github Member Front Page">
+	<meta name="keywords" content="Jimbobb3r, SDeLiath"> <!-- Search Engine Keywords -->
   	<meta name="author" content="James Leo"> 
-	<base href="https://github.com/Jimbobb3r/navbar_footer/" target="_blank">
-	
-	
+	<base href="https://github.com/Jimbobb3r/Web/" target="_blank">
+		
 	<title>JimBobb3r</title> 
 	
-	<link rel="shortcut icon" href="/navbar_footer/media/Jimbobb3r_ico.ico">
+	<link rel="shortcut icon" href="/Web/media/favicon.ico">
+	<link href="/Web/frontPage.css" type="text/css" rel="stylesheet">
 			
 	<script src="https://code.jquery.com/jquery-3.1.1.js"
   	integrity="sha256-16cdPddA6VdVInumRGo6IbivbERE8p7CQR3HzTBuELA=" crossorigin="anonymous"></script> <!-- jQuery CDN -->
@@ -31,10 +30,13 @@
 <body> 
 	
 <!-- Navbar --> 	
-<nav></nav>	
+<div id="wrapper"> 	
 	
-<main>
-	<a href="https://github.com/Jimbobb3r" title="GitHub Profile Page"><h1>Home</h1></a>
+<nav> 
+<h1><a href="https://github.com/Jimbobb3r" title="GitHub Profile Page"><h1>Home</h1></a></h1> 
+</nav> 	<!-- Nav Bar -->	
+	
+<div id=main>
 	<h3>LinkedIn:</h3>
 	<!-- LinkedIn Follow -->
 	<script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
@@ -55,12 +57,15 @@
   	  <img src="https://jimbobb3r.github.io/navbar_footer/email-gmail.png" alt="Email: JimBobb3r@gmail.com" width="66" height="44">JimBobb3r@gmail.com</a> 
 	</p>
 
-</main>	
+</div> <!-- Main -->
 	  
 <!-- Footer -->	
-<footer>
+<div id="footer"> 
 <h6 style="color:grey;">&copy; <script type="text/JavaScript">document.write(new Date().getFullYear());</script> Jimbobb3r.<h6>
-</footer>
+
+</div> <!-- Footer --> 
+
+</div><!-- Wrapper -->
 
 <!-- Github Follow -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
