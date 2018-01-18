@@ -1,2 +1,2 @@
 
-https://jimbobb3r.github.io/Web/index.html
+https://jimbobb3r.github.io/Web/blank_html/index.html
