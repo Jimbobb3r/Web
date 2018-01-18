@@ -1,6 +1,6 @@
 ## My Pages: 
 
-- http://jimbobb3r.tk/ 
+- https://jimbobb3r.github.io/Web/
 
 - https://jimbobb3r.github.io/navbar_footer/
 
