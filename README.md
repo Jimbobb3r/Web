@@ -21,11 +21,13 @@ https://www.codecademy.com/
   
 https://github.com/joshbuchea/HEAD 
 
-
 ### MDN list of all HTML elements grouped by function: 
 
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element
 
+### Meta Tags 
+
+https://www.metatags.org/
 
 ### CSS Reset 
 
