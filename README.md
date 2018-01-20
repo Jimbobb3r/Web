@@ -4,7 +4,15 @@
 
 ## Useful Sites:
  
-https://www.w3.org/standards/webdesign/htmlcss
+https://www.w3.org/standards/webdesign/htmlcss 
+
+https://developer.mozilla.org/en-US/docs/Web
+
+https://developers.google.com/web/
+
+https://dev.opera.com/
+
+https://developer.apple.com/library/content/documentation/AppleApplications/Reference/SafariHTMLRef/Introduction.html
 
 https://www.w3schools.com/
 
