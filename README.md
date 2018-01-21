@@ -42,6 +42,13 @@ https://www.metatags.org/
 
 https://cssreset.com/
 
+### Facebook Sharing Debugger 
+
+https://developers.facebook.com/tools/debug/sharing/ 
+
+### Facebook OpenGraph MarkUp: 
+
+https://developers.facebook.com/docs/sharing/webmasters/ 
 
 ### Colours:  
  
