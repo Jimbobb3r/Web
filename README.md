@@ -36,13 +36,13 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Element
 
 - Meta Tags https://www.metatags.org/
 
-- Facebook Sharing Debugger https://developers.facebook.com/tools/debug/sharing/ 
-
-- Facebook Open Graph Markup https://developers.facebook.com/docs/sharing/webmasters/ 
-
 - Open Graph Protocol http://ogp.me/ 
 
+- Facebook Open Graph Markup https://developers.facebook.com/docs/sharing/webmasters/ 
+- Facebook Sharing Debugger https://developers.facebook.com/tools/debug/sharing/ 
+
 - Twitter Cards Markup https://developer.twitter.com/en/docs/tweets/optimize-with-cards/overview/abouts-cards 
+- Twitter Card Validator https://cards-dev.twitter.com/validator 
 
 ### Colours:  
  
