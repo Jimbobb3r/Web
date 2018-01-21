@@ -46,9 +46,13 @@ https://cssreset.com/
 
 https://developers.facebook.com/tools/debug/sharing/ 
 
-### Facebook OpenGraph MarkUp: 
+### Facebook OpenGraph MarkUp 
 
 https://developers.facebook.com/docs/sharing/webmasters/ 
+
+### Twitter Cards Mark Up
+
+https://developer.twitter.com/en/docs/tweets/optimize-with-cards/overview/abouts-cards 
 
 ### Colours:  
  
