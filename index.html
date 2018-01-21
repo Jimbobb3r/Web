@@ -1,41 +1,106 @@
 <!DOCTYPE HTML>
 
-
-<html lang="en-GB">
+<html lang="en-ie">
 
 <head>
+ 
+	<meta charset="utf-8">
 
-	<!-- Metadata -->
-	<meta charset="UTF-8"> 
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Viewport = Device Width -->
+	<!-- Content="ie=edge" places IE into highest supported mode: EdgeHTML. -->
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
 
-	<meta name="description" content="Jimbobb3r's Github Member Front Page">
-	<meta name="keywords" content="Github,Jimbobb3r,SDeLiath,Seamus,DeLiath,Jimbob,James,Leo">
-	<meta name="author" content="Jimbobb3r">
-	<base href="https://github.com/Jimbobb3r/Web/" target="_blank">
-		
+	<!--  Mobile-Optimisation: Viewport tag sets viewport's width and initial scale. -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+	<!-- IE10 snapped mode ignores the viewport tag. -->
+<style>
+	@-ms-viewport{ width: device-width;
+               initial-scale: 1;
+               zoom: 1;}
+	@-o-viewport { width: device-width;
+               initial-scale: 1;
+               zoom: 1;}
+	@viewport { width: device-width;
+            initial-scale: 1;
+            zoom: 1;}
+</style>
+ 
+	<title>JimBobb3r's HTML Template</title>
+	
 	<meta name="google-site-verification" content="pVeWNxyQo7uyaPnYNXwhHWFMWhIsSZX4KqOWFI8n26I" />
-	<meta name="msvalidate.01" content="D5D1FD189E8F9EBF71D1F0261405AAC0" />
+	<meta name="msvalidate.01" content="D5D1FD189E8F9EBF71D1F0261405AAC0" /> 	
 	
-	<title>JimBobb3r</title> 
+	<!-- Robots -->
+<!--
+	<meta name="robots" content="noindex,nofollow,nocache,noarchive,noodp,noydir,nosnippet,noimageindex">
+	<meta name="googlebot" content="noindex,nofollow,nocache,noodp,nosnippet">
+	<meta name="Slurp" content="noindex,nofollow,noarchive,noodp,noydir">
+	<meta name="bingbot" content="noindex,nofollow,nocache,noodp,nosnippet">
+	<meta name="msnbot" content="noindex,nofollow,nocache,noodp,nosnippet">
+	<meta name="DuckDuckBot" content="noindex,nofollow,noarchive">
+	<meta name="Baiduspider" content="noindex,nofollow,noarchive">
+	<meta name="yandex" content="noindex,nofollow,noarchive,noyaca">
+	<meta name="Exabot" content="noindex,nofollow,noarchive">
+	<meta name="facebookexternalhit" content="noindex,nofollow">
+	<meta name="Facebot" content="noindex,nofollow">
+	<meta name="Jeeves" content="noindex,nofollow,noarchive">
+	<meta name="Teoma" content="noindex,nofollow,noarchive">
+	<meta name="Ask Jeeves" content="noindex,nofollow,noarchive">
+	<meta name="ia_archiver" content="noindex,nofollow,noarchive">
+	<meta name="archive.org_bot" content="noindex,nofollow,noarchive">
+	<meta name="pinterest" content="nopin"  description = "NO PINNING!" />
+	<meta name="google" content="nositelinkssearchbox,notranslate">
+-->	
+
+	<!-- Opt-out of Twitter for Websites personalization. Can instead opt-out for a specific widget -->
+	<meta name="twitter:dnt" content="on">
+
+	<!-- Request to not harvest emails: unspam.com -->
+	<meta name="no-email-collection" content="http://www.unspam.com/noemailcollection">
+
+
+	<!-- Use these to get search engines to index website frequently -->
+	<meta name="expires" content="wed, 31 Jan 2018">
+	<meta name="revisit-after" content="7 days">
+
+	<base href="https://github.com/Jimbobb3r/Web/" target="_blank">	
 	
+	<link rel="canonical" href="https://github.com/Jimbobb3r/Web/">
+	
+	<!-- Serve the correct language or regional URL in Search results -->
+<!--  
+	<link rel="alternate" hreflang="x-default" href="http://www.example.com/">
+	<link rel="alternate" href="http://example.com/en-ie.html" hreflang="en-ie">
+	<link rel="alternate" href="http://example.com/en-ca.html" hreflang="en-ca">
+	<link rel="alternate" href="http://example.com/en-au.html" hreflang="en-au">
+	<link rel="alternate" href="http://example.com/page.html" hreflang="en">	
+-->
+	
+	<meta name="description" content="Jimbobb3r's Github Member Front Page">
+	<meta name="abstract" content="HTML Template by Jimbobb3r">
+	<meta name="subject" content="HTML Template by Jimbobb3r">
+	<meta name="keywords" content="Github,Jimbobb3r,SDeLiath,Seamus,DeLiath,Jimbob,James,Leo">
+	<meta name=”news_keywords” content=”Jimbobb3r,Awesome,HTML,Template,SDeLiath,Seamus,DeLiath,Jimbob,James,Leo”>
+	<meta name="author" content="Jimbobb3r"> 
+	<meta name="copyright" content="JimBobb3r">
+	<meta name="rating" content="General">
+					
 	<!--  FB & Google+ Open Graph -->
-	<meta property="fb:app_id"          content="1901343336846084" />
-	<meta property="og:type"            content="article" />
-	<meta property="og:url"             content="https://jimbobb3r.github.io/Web/" />
-	<meta property="og:title"           content="JimBobb3r's HTML Template" />
+	<meta property="fb:app_id"          content="1901343336846084">
+	<meta property="og:type"            content="article">
+	<meta property="og:url"             content="https://jimbobb3r.github.io/Web/">
+	<meta property="og:title"           content="JimBobb3r's HTML Template">
 	<meta property="og:image"           content="https://raw.githubusercontent.com/Jimbobb3r/Web/master/media/catCannon.jpg" />
-	<meta property="og:image:alt"       content="catCannon!" />
-	<meta property="og:description"     content="A basic HTML page with a BoilerPlate <head>" />
-	
+	<meta property="og:image:alt"       content="catCannon!">
+	<meta property="og:description"     content="A basic HTML page">
+
 	<!--  Twitter Card -->
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:site" content="@JimBobb3r">
 	<meta name="twitter:creator" content="@JimBobb3r">
 	<meta name="twitter:url" content="https://jimbobb3r.github.io/Web/">
 	<meta name="twitter:title" content="JimBobb3r's HTML Template">
-	<meta name="twitter:description" content="A basic HTML page with a BoilerPlate <head>">
+	<meta name="twitter:description" content="A basic HTML page">
 	<meta name="twitter:image" content="https://raw.githubusercontent.com/Jimbobb3r/Web/master/media/catCannon.jpg">
 	<meta name="twitter:image:alt" content="catCannon!">
 	
@@ -77,8 +142,7 @@
 </style>
 	
 </head>
-	
-	
+		
 <body> 
 
 <div id="wrapper">	
