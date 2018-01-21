@@ -26,32 +26,25 @@ https://www.codecademy.com/
 
 https://css-tricks.com/
 
-### A list of everything that *could* go in the < head > of your document: 
-  
-https://github.com/joshbuchea/HEAD 
-
 ### MDN list of all HTML elements grouped by function: 
 
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element
 
-### Meta Tags 
+### HTML < head >
 
+- A list of everything that *could* go in the < head > of your document:  
+https://github.com/joshbuchea/HEAD 
+
+- Meta Tags 
 https://www.metatags.org/
 
-### CSS Reset 
-
-https://cssreset.com/
-
-### Facebook Sharing Debugger 
-
+- Facebook Sharing Debugger 
 https://developers.facebook.com/tools/debug/sharing/ 
 
-### Facebook OpenGraph MarkUp 
-
+- Facebook OpenGraph Markup 
 https://developers.facebook.com/docs/sharing/webmasters/ 
 
-### Twitter Cards Mark Up
-
+- Twitter Cards Markup
 https://developer.twitter.com/en/docs/tweets/optimize-with-cards/overview/abouts-cards 
 
 ### Colours:  
@@ -72,3 +65,7 @@ http://www.color-hex.com/
 ### Device Screen Sizes: 
 
 https://mydevice.io/devices/
+
+### CSS Reset 
+
+https://cssreset.com/ 
