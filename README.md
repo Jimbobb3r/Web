@@ -26,22 +26,28 @@ https://www.codecademy.com/
 
 https://css-tricks.com/
 
-### MDN list of all HTML elements grouped by function: 
-
+## MDN list of all HTML elements grouped by function: 
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element
 
-### HTML < head >
-
+## HTML < head > 
 - A list of everything that *could* go in the < head > of your document https://github.com/joshbuchea/HEAD 
-- Meta Tags https://www.metatags.org/
+- Meta Tags https://www.metatags.org/ 
+
+## Facebook & Twitter
 - Open Graph Protocol http://ogp.me/ 
 - Facebook Open Graph Markup https://developers.facebook.com/docs/sharing/webmasters/ 
 - Facebook Sharing Debugger https://developers.facebook.com/tools/debug/sharing/ 
 - Twitter Cards Markup https://developer.twitter.com/en/docs/tweets/optimize-with-cards/overview/abouts-cards 
 - Twitter Card Validator https://cards-dev.twitter.com/validator 
+ 
+### Hreflang & Canonical: 
 - hreflang Tags Generator Tool https://www.aleydasolis.com/english/international-seo-tools/hreflang-tags-generator/
+- https://www.rebelytics.com/hreflang-canonical/
+- https://hreflang.org/use-hreflang-canonical-together/ 
+- https://support.google.com/webmasters/answer/139066?hl=en 
+- https://support.google.com/webmasters/answer/189077?hl=en
 
-### Colours:  
+## Colours:  
  
 - W3Schools Colour Picker https://www.w3schools.com/colors/colors_picker.asp
 - Colour Blender https://meyerweb.com/eric/tools/color-blend/#:::hex
@@ -49,10 +55,10 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Element
 - Color Hex http://www.color-hex.com/
 
 
-### Device Screen Sizes: 
+## Device Screen Sizes: 
 
 https://mydevice.io/devices/
 
-### CSS Reset 
+## CSS Reset 
 
 https://cssreset.com/ 
