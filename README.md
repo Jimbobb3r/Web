@@ -33,25 +33,19 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Element
 ### HTML < head >
 
 - A list of everything that *could* go in the < head > of your document https://github.com/joshbuchea/HEAD 
-
 - Meta Tags https://www.metatags.org/
-
 - Open Graph Protocol http://ogp.me/ 
-
 - Facebook Open Graph Markup https://developers.facebook.com/docs/sharing/webmasters/ 
 - Facebook Sharing Debugger https://developers.facebook.com/tools/debug/sharing/ 
-
 - Twitter Cards Markup https://developer.twitter.com/en/docs/tweets/optimize-with-cards/overview/abouts-cards 
 - Twitter Card Validator https://cards-dev.twitter.com/validator 
+- hreflang Tags Generator Tool https://www.aleydasolis.com/english/international-seo-tools/hreflang-tags-generator/
 
 ### Colours:  
  
 - W3Schools Colour Picker https://www.w3schools.com/colors/colors_picker.asp
-
 - Colour Blender https://meyerweb.com/eric/tools/color-blend/#:::hex
-
 - MDN Colours https://developer.mozilla.org/en-US/docs/Web/CSS/color_value 
-
 - Color Hex http://www.color-hex.com/
 
 
