@@ -27,19 +27,58 @@
 	<meta property="og:title"           content="JimBobb3r's HTML Template" />
 	<meta property="og:image"           content="https://raw.githubusercontent.com/Jimbobb3r/Web/master/media/catCannon.jpg" />
 	<meta property="og:description"     content="A basic HTML page with a BoilerPlate <head>" />
+
+	
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:site" content="@site_account">
+	<meta name="twitter:creator" content="@individual_account">
+	<meta name="twitter:url" content="https://www.example.com/path/to/page.html">
+	<meta name="twitter:title" content="">
+	<meta name="twitter:description" content="">
+	<meta name="twitter:image" content="https://www.example.com/path/to/image.jpg">
+	
 	
 	<link rel="shortcut icon" href="https://raw.githubusercontent.com/Jimbobb3r/Web/master/media/favicon.ico">
 
-	<style>
+<style>
 	h5 {
   	display: inline;
 	}
-	</style>
+		
+		html,
+	body {
+	  margin:0;
+	  padding:0;
+	  height:100%;
+	}
+	#wrapper {
+	  min-height:100%;
+	  position:relative;
+	}
+
+	/*Footer: The value for 'padding-bottom' on #main must be equal to or greater than the height of #footer.*/
+
+	#main {
+  	  padding-bottom:150px; /* Height of the footer element */
+	}
+	#footer {
+	  background:#333;
+	  width:100%;
+	  height:150px;
+	  position:absolute;
+	  bottom:0;
+	  left:0;
+	  color: #D3D3D3;
+	  text-align: center;
+	}
+</style>
 	
 </head>
 	
 	
 <body> 
+
+<div id="wrapper">	
 	
 <!-- Navbar --> 	
 <nav> 
@@ -80,12 +119,14 @@
 	</p>
 </main> <!-- Main -->
 	  
-<!-- Footer -->	
-<footer> 
-<div style="position: absolute; bottom: 5px; color: grey;"> 	
-<h6>&copy; <script type="text/JavaScript">document.write(new Date().getFullYear());</script> Jimbobb3r<h6>
-</div>
-</footer> <!-- Footer --> 
+<div id="footer">
+	<p>&copy; <script type="text/JavaScript">
+	document.write(new Date().getFullYear());</script>
+	Jimbobb3r</p>
+
+</div><!-- #footer -->
+		
+</div><!-- #wrapper -->
 
 <!-- Github -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
