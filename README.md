@@ -38,7 +38,9 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Element
 
 - Facebook Sharing Debugger https://developers.facebook.com/tools/debug/sharing/ 
 
-- Facebook OpenGraph Markup https://developers.facebook.com/docs/sharing/webmasters/ 
+- Facebook Open Graph Markup https://developers.facebook.com/docs/sharing/webmasters/ 
+
+- Open Graph Protocol http://ogp.me/ 
 
 - Twitter Cards Markup https://developer.twitter.com/en/docs/tweets/optimize-with-cards/overview/abouts-cards 
 
