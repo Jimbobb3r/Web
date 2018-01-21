@@ -32,34 +32,25 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Element
 
 ### HTML < head >
 
-- A list of everything that *could* go in the < head > of your document:  
-https://github.com/joshbuchea/HEAD 
+- A list of everything that *could* go in the < head > of your document https://github.com/joshbuchea/HEAD 
 
-- Meta Tags 
-https://www.metatags.org/
+- Meta Tags https://www.metatags.org/
 
-- Facebook Sharing Debugger 
-https://developers.facebook.com/tools/debug/sharing/ 
+- Facebook Sharing Debugger https://developers.facebook.com/tools/debug/sharing/ 
 
-- Facebook OpenGraph Markup 
-https://developers.facebook.com/docs/sharing/webmasters/ 
+- Facebook OpenGraph Markup https://developers.facebook.com/docs/sharing/webmasters/ 
 
-- Twitter Cards Markup
-https://developer.twitter.com/en/docs/tweets/optimize-with-cards/overview/abouts-cards 
+- Twitter Cards Markup https://developer.twitter.com/en/docs/tweets/optimize-with-cards/overview/abouts-cards 
 
 ### Colours:  
  
-- W3Schools Colour Picker:
-https://www.w3schools.com/colors/colors_picker.asp
+- W3Schools Colour Picker https://www.w3schools.com/colors/colors_picker.asp
 
-- Colour Blender 
-https://meyerweb.com/eric/tools/color-blend/#:::hex
+- Colour Blender https://meyerweb.com/eric/tools/color-blend/#:::hex
 
-- MDN Colours: 
-https://developer.mozilla.org/en-US/docs/Web/CSS/color_value 
+- MDN Colours https://developer.mozilla.org/en-US/docs/Web/CSS/color_value 
 
-- Color Hex
-http://www.color-hex.com/
+- Color Hex http://www.color-hex.com/
 
 
 ### Device Screen Sizes: 
