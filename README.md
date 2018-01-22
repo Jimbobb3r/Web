@@ -33,8 +33,9 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Element
 - A list of everything that *could* go in the < head > of your document https://github.com/joshbuchea/HEAD 
 - Meta Tags https://www.metatags.org/ 
 
-### Favicon Generator & Checker: 
-https://realfavicongenerator.net/ 
+### Favicons:
+- http://iconhandbook.co.uk/book/ 
+- Generator & Checker https://realfavicongenerator.net/ 
 
 ### Hreflang & Canonical: 
 - hreflang Tags Generator Tool https://www.aleydasolis.com/english/international-seo-tools/hreflang-tags-generator/
