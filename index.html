@@ -115,7 +115,17 @@
 	<meta name="application-name" content="JimBobb3r">
 	<meta name="msapplication-config" content="media/browserconfig.xml">
 	<meta name="theme-color" content="#ffc40d">
+	
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>  <!-- jQuery CDN -->
+	<noscript>Some content cannot be displayed. JavaScript is either disabled or unsupported by your browser.</noscript>
 
+	<!-- README.md File -->
+<script>
+	$(function(){
+	$("#README").load("README.md");
+	});
+</script>
+	
 <style>
 	h5 {
   	display: inline;
@@ -196,6 +206,8 @@
 	alt="Email: JimBobb3r@gmail.com" width="34" height="25"> JimBobb3r@gmail.com</a> 
 	</p>
 	
+	<div id="README"></div>
+
 	<p>
 	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 	<script>
