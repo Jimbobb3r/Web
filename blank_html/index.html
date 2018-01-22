@@ -32,6 +32,16 @@
 	<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script> jQuery CDN -->
 	 <noscript>Some content cannot be displayed. JavaScript is either disabled or unsupported by your browser.</noscript> 
 	
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>  <!-- jQuery CDN -->
+	<noscript>Some content cannot be displayed. JavaScript is either disabled or unsupported by your browser.</noscript>
+
+	<script>
+	$(function(){
+	$("#README").load("README.md");
+	});
+	</script>
+	
+	
 </head>
  	
 <body> 
@@ -47,6 +57,9 @@
 		<div style="text-align: center;"><a class="github-button" href="https://github.com/jimbobb3r" 
 			data-style="mega" 
 			aria-label="@jimbobb3r - GitHub">@jimbobb3r - GitHub</a> </div>
+	
+	<div id="README"></div>
+	
 </div> <!-- Main -->
 
 <div id="footer">
