@@ -36,13 +36,6 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Element
 ### Favicon Generator & Checker: 
 https://realfavicongenerator.net/ 
 
-## Facebook & Twitter
-- Open Graph Protocol http://ogp.me/ 
-- Facebook Open Graph Markup https://developers.facebook.com/docs/sharing/webmasters/ 
-- Facebook Sharing Debugger https://developers.facebook.com/tools/debug/sharing/ 
-- Twitter Cards Markup https://developer.twitter.com/en/docs/tweets/optimize-with-cards/overview/abouts-cards 
-- Twitter Card Validator https://cards-dev.twitter.com/validator 
- 
 ### Hreflang & Canonical: 
 - hreflang Tags Generator Tool https://www.aleydasolis.com/english/international-seo-tools/hreflang-tags-generator/
 - https://www.rebelytics.com/hreflang-canonical/
@@ -50,6 +43,13 @@ https://realfavicongenerator.net/
 - https://support.google.com/webmasters/answer/139066?hl=en 
 - https://support.google.com/webmasters/answer/189077?hl=en
 
+## Facebook & Twitter
+- Open Graph Protocol http://ogp.me/ 
+- Facebook Open Graph Markup https://developers.facebook.com/docs/sharing/webmasters/ 
+- Facebook Sharing Debugger https://developers.facebook.com/tools/debug/sharing/ 
+- Twitter Cards Markup https://developer.twitter.com/en/docs/tweets/optimize-with-cards/overview/abouts-cards 
+- Twitter Card Validator https://cards-dev.twitter.com/validator 
+ 
 ## Colours:  
 - W3Schools Colour Picker https://www.w3schools.com/colors/colors_picker.asp
 - Colour Blender https://meyerweb.com/eric/tools/color-blend/#:::hex
