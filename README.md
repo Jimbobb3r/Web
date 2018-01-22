@@ -33,6 +33,9 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Element
 - A list of everything that *could* go in the < head > of your document https://github.com/joshbuchea/HEAD 
 - Meta Tags https://www.metatags.org/ 
 
+### Favicon Generator & Checker: 
+https://realfavicongenerator.net/ 
+
 ## Facebook & Twitter
 - Open Graph Protocol http://ogp.me/ 
 - Facebook Open Graph Markup https://developers.facebook.com/docs/sharing/webmasters/ 
@@ -48,7 +51,6 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Element
 - https://support.google.com/webmasters/answer/189077?hl=en
 
 ## Colours:  
- 
 - W3Schools Colour Picker https://www.w3schools.com/colors/colors_picker.asp
 - Colour Blender https://meyerweb.com/eric/tools/color-blend/#:::hex
 - MDN Colours https://developer.mozilla.org/en-US/docs/Web/CSS/color_value 
@@ -56,9 +58,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Element
 
 
 ## Device Screen Sizes: 
-
 https://mydevice.io/devices/
 
 ## CSS Reset 
-
 https://cssreset.com/ 
