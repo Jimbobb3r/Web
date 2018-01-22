@@ -1,65 +1,65 @@
 ## My Page: 
 
-- https://jimbobb3r.github.io/Web/ 
+- https://jimbobb3r.github.io/Web/ <br>
 
-## Useful Sites:
+## Useful Sites: <br>
  
-https://www.w3.org/standards/webdesign/htmlcss 
+https://www.w3.org/standards/webdesign/htmlcss  <br>
 
-https://developer.mozilla.org/en-US/docs/Web
+https://developer.mozilla.org/en-US/docs/Web <br>
 
-https://developers.google.com/web/
+https://developers.google.com/web/ <br>
 
-https://dev.opera.com/
+https://dev.opera.com/ <br>
 
-https://developer.apple.com/library/content/documentation/AppleApplications/Reference/SafariHTMLRef/Introduction.html
+https://developer.apple.com/library/content/documentation/AppleApplications/Reference/SafariHTMLRef/Introduction.html <br>
 
-https://www.w3schools.com/
+https://www.w3schools.com/ <br>
 
-http://fontawesome.io/ 
+http://fontawesome.io/ <br>
 
-https://www.bootstrapcdn.com/
+https://www.bootstrapcdn.com/ <br>
 
-https://www.freecodecamp.org/ 
+https://www.freecodecamp.org/ <br>
 
-https://www.codecademy.com/ 
+https://www.codecademy.com/ <br>
 
-https://css-tricks.com/
+https://css-tricks.com/ <br>
 
-## MDN list of all HTML elements grouped by function: 
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+## MDN list of all HTML elements grouped by function: <br>
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element <br>
 
-## HTML < head > 
-- A list of everything that *could* go in the < head > of your document https://github.com/joshbuchea/HEAD 
-- Meta Tags https://www.metatags.org/ 
+## HTML < head > <br>
+- A list of everything that *could* go in the < head > of your document https://github.com/joshbuchea/HEAD  <br>
+- Meta Tags https://www.metatags.org/ <br>
 
-### Favicons:
-- http://iconhandbook.co.uk/book/ 
-- Generator & Checker https://realfavicongenerator.net/ 
+### Favicons: <br>
+- http://iconhandbook.co.uk/book/ <br>
+- Generator & Checker https://realfavicongenerator.net/  <br>
 
-### Hreflang & Canonical: 
-- hreflang Tags Generator Tool https://www.aleydasolis.com/english/international-seo-tools/hreflang-tags-generator/
-- https://www.rebelytics.com/hreflang-canonical/
-- https://hreflang.org/use-hreflang-canonical-together/ 
-- https://support.google.com/webmasters/answer/139066?hl=en 
-- https://support.google.com/webmasters/answer/189077?hl=en
+### Hreflang & Canonical: <br>
+- hreflang Tags Generator Tool https://www.aleydasolis.com/english/international-seo-tools/hreflang-tags-generator/ <br>
+- https://www.rebelytics.com/hreflang-canonical/ <br>
+- https://hreflang.org/use-hreflang-canonical-together/  <br>
+- https://support.google.com/webmasters/answer/139066?hl=en  <br>
+- https://support.google.com/webmasters/answer/189077?hl=en <br>
 
-## Facebook & Twitter
-- Open Graph Protocol http://ogp.me/ 
-- Facebook Open Graph Markup https://developers.facebook.com/docs/sharing/webmasters/ 
-- Facebook Sharing Debugger https://developers.facebook.com/tools/debug/sharing/ 
-- Twitter Cards Markup https://developer.twitter.com/en/docs/tweets/optimize-with-cards/overview/abouts-cards 
-- Twitter Card Validator https://cards-dev.twitter.com/validator 
+## Facebook & Twitter <br>
+- Open Graph Protocol http://ogp.me/  <br>
+- Facebook Open Graph Markup https://developers.facebook.com/docs/sharing/webmasters/ <br>
+- Facebook Sharing Debugger https://developers.facebook.com/tools/debug/sharing/ <br>
+- Twitter Cards Markup https://developer.twitter.com/en/docs/tweets/optimize-with-cards/overview/abouts-cards <br>
+- Twitter Card Validator https://cards-dev.twitter.com/validator <br>
  
-## Colours:  
-- W3Schools Colour Picker https://www.w3schools.com/colors/colors_picker.asp
-- Colour Blender https://meyerweb.com/eric/tools/color-blend/#:::hex
-- MDN Colours https://developer.mozilla.org/en-US/docs/Web/CSS/color_value 
-- Color Hex http://www.color-hex.com/
+## Colours:  <br>
+- W3Schools Colour Picker https://www.w3schools.com/colors/colors_picker.asp <br>
+- Colour Blender https://meyerweb.com/eric/tools/color-blend/#:::hex <br>
+- MDN Colours https://developer.mozilla.org/en-US/docs/Web/CSS/color_value <br>
+- Color Hex http://www.color-hex.com/ <br>
 
 
-## Device Screen Sizes: 
-https://mydevice.io/devices/
+## Device Screen Sizes: <br>
+https://mydevice.io/devices/ <br>
 
-## CSS Reset 
-https://cssreset.com/ 
+## CSS Reset <br>
+https://cssreset.com/ <br>
