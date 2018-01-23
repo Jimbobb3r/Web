@@ -13,6 +13,18 @@ body {
 
 /*Footer: The value for 'padding-bottom' on #main must be equal to or greater than the height of #footer.*/
 
+#cpright {
+		right: 0;
+		bottom: 0;
+		position: absolute;
+		}
+#socmedicons {
+		right: 0;
+		top: 0;
+		position: absolute;
+		}
+
+
 #main {
   padding-bottom:150px; /* Height of the footer element */
 }
