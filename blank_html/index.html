@@ -1,26 +1,120 @@
 <!DOCTYPE HTML>
 
-
-<html lang="en-GB">
+<html lang="en-ie">
 
 <head>
+ 
+	<meta charset="utf-8">
 
-	<!-- Metadata -->
-	<meta charset="UTF-8"> 
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Viewport = Device Width -->
+	<!-- Content="ie=edge" places IE into highest supported mode: EdgeHTML. -->
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
 
-	<meta name="description" content="Blank HTML Template">
-	<meta name="keywords" content="Jimbobb3r, SDeLiath"> <!-- Search Engine Keywords -->
-  	<meta name="author" content="James Leo"> 
+	<!--  Mobile-Optimisation: Viewport tag sets viewport's width and initial scale. -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+	<!-- IE10 snapped mode ignores the viewport tag. -->
+<style>
+	@-ms-viewport{ width: device-width;
+               initial-scale: 1;
+               zoom: 1;}
+	@-o-viewport { width: device-width;
+               initial-scale: 1;
+               zoom: 1;}
+	@viewport { width: device-width;
+            initial-scale: 1;
+            zoom: 1;}
+</style>
+	 
+	<title>JimBobb3r's HTML Template</title>
 	
-	<title>Blank_HTML</title>
-	<link rel="icon" href="/Web/blank_html/favicon.ico"> 
+	<base href="https://raw.githubusercontent.com/Jimbobb3r/Web/master/" target="_self">	
 	
-	<link rel="stylesheet" type="text/css" href="/Web/blank_html/style.css">
+	<meta name="google-site-verification" content="pVeWNxyQo7uyaPnYNXwhHWFMWhIsSZX4KqOWFI8n26I" />
+	<meta name="msvalidate.01" content="D5D1FD189E8F9EBF71D1F0261405AAC0" /> 	
 	
-	<!--Font Awesome <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" 
-	      integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous"> --> 
+	<!-- Robots -->
+<!--
+	<meta name="robots" content="noindex,nofollow,nocache,noarchive,noodp,noydir,nosnippet,noimageindex">
+	<meta name="googlebot" content="noindex,nofollow,nocache,noodp,nosnippet">
+	<meta name="Slurp" content="noindex,nofollow,noarchive,noodp,noydir">
+	<meta name="bingbot" content="noindex,nofollow,nocache,noodp,nosnippet">
+	<meta name="msnbot" content="noindex,nofollow,nocache,noodp,nosnippet">
+	<meta name="DuckDuckBot" content="noindex,nofollow,noarchive">
+	<meta name="Baiduspider" content="noindex,nofollow,noarchive">
+	<meta name="yandex" content="noindex,nofollow,noarchive,noyaca">
+	<meta name="Exabot" content="noindex,nofollow,noarchive">
+	<meta name="facebookexternalhit" content="noindex,nofollow">
+	<meta name="Facebot" content="noindex,nofollow">
+	<meta name="Jeeves" content="noindex,nofollow,noarchive">
+	<meta name="Teoma" content="noindex,nofollow,noarchive">
+	<meta name="Ask Jeeves" content="noindex,nofollow,noarchive">
+	<meta name="ia_archiver" content="noindex,nofollow,noarchive">
+	<meta name="archive.org_bot" content="noindex,nofollow,noarchive">
+	<meta name="pinterest" content="nopin"  description = "NO PINNING!">
+	<meta name="google" content="nositelinkssearchbox,notranslate">
+--><!-- Opt-out of Twitter for Websites personalization. Can instead opt-out for a specific widget -->
+<!--	<meta name="twitter:dnt" content="on">
+-->	
+
+	<!-- Request to not harvest emails: unspam.com -->
+	<meta name="no-email-collection" content="http://www.unspam.com/noemailcollection">
+
+
+	<!-- Use these to get search engines to index website frequently -->
+	<meta name="expires" content="wed, 31 Jan 2018">
+	<meta name="revisit-after" content="7 days">
+	
+	<link rel="canonical" href="https://github.com/Jimbobb3r/Web/">
+	<!-- Serve the correct language or regional URL in Search results -->
+<!--  	<link rel="alternate" hreflang="x-default" href="http://www.example.com/">
+	<link rel="alternate" href="http://example.com/en-ie.html" hreflang="en-ie">
+	<link rel="alternate" href="http://example.com/en-ca.html" hreflang="en-ca">
+	<link rel="alternate" href="http://example.com/en-au.html" hreflang="en-au">
+	<link rel="alternate" href="http://example.com/page.html" hreflang="en">	
+-->
+	
+	<meta name="description" content="Jimbobb3r's Github Member Front Page">
+	<meta name="abstract" content="HTML Template by Jimbobb3r">
+	<meta name="subject" content="HTML Template by Jimbobb3r">
+	<meta name="keywords" content="Github,Jimbobb3r,SDeLiath,Seamus,DeLiath,Jimbob,James,Leo">
+	<meta name=”news_keywords” content=”Jimbobb3r,Awesome,HTML,Template,SDeLiath,Seamus,DeLiath,Jimbob,James,Leo”>
+	<meta name="author" content="Jimbobb3r"> 
+	<meta name="copyright" content="JimBobb3r">
+	<meta name="rating" content="General">
+					
+	<!--  FB & Google+ Open Graph -->
+	<meta property="fb:app_id"          content="1901343336846084">
+	<meta property="og:type"            content="article">
+	<meta property="og:url"             content="https://jimbobb3r.github.io/Web/">
+	<meta property="og:title"           content="JimBobb3r's HTML Template">
+	<meta property="og:image"           content="media/catCannon.jpg" />
+	<meta property="og:image:alt"       content="catCannon!">
+	<meta property="og:description"     content="A basic HTML page">
+
+	<!--  Twitter Card -->
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:site" content="@JimBobb3r">
+	<meta name="twitter:creator" content="@JimBobb3r">
+	<meta name="twitter:url" content="https://jimbobb3r.github.io/Web/">
+	<meta name="twitter:title" content="JimBobb3r's HTML Template">
+	<meta name="twitter:description" content="A basic HTML page">
+	<meta name="twitter:image" content="media/catCannon.jpg">
+	<meta name="twitter:image:alt" content="catCannon!">
+	
+	
+	<meta name="format-detection" content="telephone=no">	
+		
+	<!-- Icons-->
+	<link rel="apple-touch-icon" sizes="180x180" href="media/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="media/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="media/favicon-16x16.png">
+	<link rel="manifest" href="media/manifest.json">
+	<link rel="mask-icon" href="media/safari-pinned-tab.svg" color="#ff0000">
+	<link rel="shortcut icon" href="media/favicon.ico" type="image/x-icon">
+	<meta name="apple-mobile-web-app-title" content="JimBobb3r">
+	<meta name="application-name" content="JimBobb3r">
+	<meta name="msapplication-config" content="media/browserconfig.xml">
+	<meta name="theme-color" content="#ffc40d">
 	
 	<!-- <link href="http://fonts.googleapis.com/css?family=Cookie" rel="stylesheet" type="text/css"> Google Fonts -->  
 	<!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" 
@@ -29,10 +123,9 @@
 	<!-- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" 
 		integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" 
 		crossorigin="anonymous"></script> Bootstrap JS --> 
-	<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script> jQuery CDN -->
-	 <noscript>Some content cannot be displayed. JavaScript is either disabled or unsupported by your browser.</noscript> 
 	
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>  <!-- jQuery CDN -->
+	<script src="https://use.fontawesome.com/543acc1e10.js"></script>  <!-- Font Awesome -->
 	<noscript>Some content cannot be displayed. JavaScript is either disabled or unsupported by your browser.</noscript>
 
 	<script>
@@ -41,39 +134,89 @@
 	});
 	</script>
 	
-	
+<style>
+
+</style>
+		
 </head>
- 	
+		
 <body> 
-	
+
 <div id="wrapper">	
-
-<nav> 
-<h1>Blank Page</h1> 
-</nav> 	<!-- Nav Bar -->
-
-<div id=main>
-	<!-- Github Follow -->
-		<div style="text-align: center;"><a class="github-button" href="https://github.com/jimbobb3r" 
-			data-style="mega" 
-			aria-label="@jimbobb3r - GitHub">@jimbobb3r - GitHub</a> </div>
 	
-	<span id="README"></span>
+<!-- Navbar --> 	
+<nav> 	
+</nav> 	<!-- Nav Bar -->	
 	
-</div> <!-- Main -->
-
+<div id="main">	
+	
+	<!-- Codecademy -->
+	<p><h5>Codecademy: </h5><a href="https://www.codecademy.com/Jimbobb3r" title="Codecademy - Jimbobb3r" target="_blank">
+	<img src="media/Codecademy.png" 
+	alt="Codecademy Profile - Jimbobb3r" width="95" height="20"> - JimBobb3r</a>
+	</p> 
+	
+	<p><img src="media/catCannon.jpg"></p>
+	<p style="text-align: center;">meee-ow!!</p>
+	<p><img src="media/catCannon.jpg"></p>
+	<p style="text-align: center;">meee-ow!!</p>
+	
+	<div id="README"></div>	
+	
+</main> <!-- Main -->
+	  
 <div id="footer">
-	<p>&copy; <script type="text/JavaScript">
+		
+<div id="socmedicons">
+<ul style="list-style-type:none">
+  <li>
+    <a href="mailto:jimbobb3r@gmail.com?Subject=Hi James!" title="Email JimBobb3r">
+    <i class="fa fa-envelope fa-stack-1x" aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a href="https://www.linkedin.com/in/jamescleo" title="jamescleo">
+    <i class="fa fa-linkedin-square fa-stack-1x" aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a href="https://github.com/jimbobb3r" title="@JimBobb3r">
+    <i class="fa fa-github-square fa-stack-1x" aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a href="https://twitter.com/JimBobb3r" title="@JimBobb3r">
+    <i class="fa fa-twitter-square fa-stack-1x" aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a href="https://www.facebook.com/jimbobb3r/" title="Facebook">
+    <i class="fa fa-facebook-square" aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a href="/plus.google.com/u/1/115041758114334644278" title="Google+">
+    <i class="fa fa-google-plus-square fa-stack-1x" aria-hidden="true"></i>
+    </a>   
+  </li>
+  <li>
+    <a href="https://www.pinterest.ie/jimbobb3r/" title="Pinterest">
+    <i class="fa fa-pinterest-square fa-stack-1x" aria-hidden="true"></i>
+    </a>    
+  </li>
+</ul>  	
+
+</div> <!-- socmedicons -->
+	
+	<div id="cpright">&copy; <script type="text/JavaScript">
 	document.write(new Date().getFullYear());</script>
-	Jimbobb3r.</p>
+	Jimbobb3r.
+	</div> <!-- cpright -->
 
 </div><!-- #footer -->
 		
 </div><!-- #wrapper -->
- 
-<!-- Github Follow -->
-	<script async defer src="https://buttons.github.io/buttons.js"></script>		
-		
+
 </body>
 
 </html>
