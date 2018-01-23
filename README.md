@@ -1,6 +1,6 @@
 ## My Page: 
 
-- https://jimbobb3r.github.io/Web/ <br>
+- https://jimbobb3r.github.io/web/ <br>
 
 ## Useful Sites: <br>
  
