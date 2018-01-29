@@ -69,3 +69,4 @@ https://cssreset.com/ <br>
 ## Stuff: <br>
 - Countdown time from timeanddate.com: https://www.timeanddate.com/clocks/freecountdown.html <br> 
 - Simple Countdown timers: http://e.ggtimer.com/
+- Cool timer scripts: https://themehunt.com/blog/32-free-resources/70-10-stunning-free-countdown-timer-scripts-for-your-next-theme 
