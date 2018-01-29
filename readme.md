@@ -65,3 +65,7 @@ https://mydevice.io/devices/ <br>
 
 ## CSS Reset <br>
 https://cssreset.com/ <br>
+
+## Stuff: <br>
+- Countdown time from timeanddate.com: https://www.timeanddate.com/clocks/freecountdown.html <br> 
+- Simple Countdown timers: http://e.ggtimer.com/
