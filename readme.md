@@ -26,6 +26,9 @@ https://www.codecademy.com/ <br>
 
 https://css-tricks.com/ <br>
 
+## "Can I use" - browser support tables: <br>
+https://caniuse.com/ <br>
+
 ## MDN list of all HTML elements grouped by function: <br>
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element <br>
 
