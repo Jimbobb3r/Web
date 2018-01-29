@@ -52,11 +52,10 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Element <br>
 - Twitter Card Validator https://cards-dev.twitter.com/validator <br>
  
 ## Colours:  <br>
+- MDN Colours https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Color_picker_tool <br>
 - W3Schools Colour Picker https://www.w3schools.com/colors/colors_picker.asp <br>
 - Colour Blender https://meyerweb.com/eric/tools/color-blend/#:::hex <br>
-- MDN Colours https://developer.mozilla.org/en-US/docs/Web/CSS/color_value <br>
 - Color Hex http://www.color-hex.com/ <br>
-
 
 ## Device Screen Sizes: <br>
 https://mydevice.io/devices/ <br>
