@@ -8,6 +8,10 @@ https://www.w3.org/standards/webdesign/htmlcss  <br>
 
 https://developer.mozilla.org/en-US/docs/Web <br>
 
+http://www.htmldog.com/ <br>
+
+https://css-tricks.com/ <br>
+
 https://developers.google.com/web/ <br>
 
 https://dev.opera.com/ <br>
@@ -22,9 +26,7 @@ https://www.bootstrapcdn.com/ <br>
 
 https://www.freecodecamp.org/ <br>
 
-https://www.codecademy.com/ <br>
-
-https://css-tricks.com/ <br>
+https://www.codecademy.com/ <br> 
 
 ## "Can I use" - browser support tables: <br>
 https://caniuse.com/ <br>
