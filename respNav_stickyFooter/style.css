@@ -47,7 +47,9 @@ ul.topnav li.right {float: right;}
 
 #main {
   padding-bottom:150px; /* Height of the footer element */
+  background: linear-gradient(grey, white);
 }
+  
 #footer {
   background:#333;
   width:100%;
@@ -58,3 +60,5 @@ ul.topnav li.right {float: right;}
   color: #D3D3D3;
   text-align: center;
 }
+
+
