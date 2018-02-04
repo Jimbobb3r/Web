@@ -1,3 +1,9 @@
+/+ IE10 snapped mode ignores the viewport tag. */
+
+@-ms-viewport{ width: device-width; initial-scale: 1; zoom: 1;}
+@-o-viewport { width: device-width; initial-scale: 1; zoom: 1;}
+@viewport { width: device-width; initial-scale: 1; zoom: 1;}
+
 ul.topnav {
     list-style-type: none;
     margin: 0;
