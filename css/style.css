@@ -4,13 +4,17 @@
 @-o-viewport { width: device-width; initial-scale: 1; zoom: 1;}
 @viewport { width: device-width; initial-scale: 1; zoom: 1;}
 
-
 html,
 body {
 margin:0;
 padding:0;
 height:100%;
 }
+
+#pagebg {
+     background: linear-gradient(grey, white); 
+}
+
 
 h5 {
 display: inline;
@@ -42,3 +46,4 @@ right: 0;
 bottom: 0;
 position: absolute;
 }
+
