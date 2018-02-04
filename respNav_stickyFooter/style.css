@@ -3,7 +3,9 @@ body {
   margin:0;
   padding:0;
   height:100%;
+  background: linear-gradient(grey, white);
 }
+
 #wrapper {
   min-height:100%;
   position:relative;
@@ -47,7 +49,6 @@ ul.topnav li.right {float: right;}
 
 #main {
   padding-bottom:150px; /* Height of the footer element */
-  background: linear-gradient(grey, white);
 }
   
 #footer {
