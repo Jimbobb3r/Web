@@ -6,7 +6,7 @@ body {
 }
 
 #pagebg {
-     background: linear-gradient(grey, white); 
+     background: linear-gradient(#0C0C0C, white); 
 }
 
 #wrapper {
