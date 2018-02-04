@@ -4,6 +4,11 @@
 @-o-viewport { width: device-width; initial-scale: 1; zoom: 1;}
 @viewport { width: device-width; initial-scale: 1; zoom: 1;}
 
+* {
+  margin: 0;
+  padding: 0;
+}
+
 html,
 body {
 margin:0;
