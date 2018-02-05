@@ -20,7 +20,7 @@ height:100%;
      background: linear-gradient(grey, white); 
 }
 
-img {
+.scaleimg {
     max-width: 100%;
     height: auto;
 }
