@@ -28,6 +28,8 @@ display: inline;
 bigimg {
     width: 100%;
     height: auto;
+    margin-left: auto; 
+    margin-right: auto; 
 } 
 
 #wrapper {
