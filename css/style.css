@@ -25,12 +25,15 @@ h5 {
 display: inline;
 }
 
-bigimg {
-    width: 100%;
-    height: auto;
+center {
     display: block; 
     margin-left: auto;
     margin-right: auto;
+}
+
+bigimg {
+    width: 100%;
+    height: auto;
 } 
 
 #wrapper {
