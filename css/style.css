@@ -21,8 +21,12 @@ height:100%;
 }
 
 .scaletofit {
-    max-width: 75%;
+    max-width: 80%;
     height: auto;
+}
+
+img {
+  margin: 10px 10px;
 }
 
 .center {
