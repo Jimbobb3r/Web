@@ -20,10 +20,6 @@ height:100%;
      background: linear-gradient(grey, white); 
 }
 
-h5 {
-display: inline;
-}
-
 img {
     max-width: 100%;
     height: auto;
