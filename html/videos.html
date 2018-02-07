@@ -27,29 +27,6 @@
 <link rel="icon" type="image/png" sizes="16x16" href="media/icon/favicon-16x16.png">	
 
 <link rel="stylesheet" type="text/css" href="css/videos.css">		
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>  <!-- jQuery CDN -->
-<noscript>Some content cannot be displayed. JavaScript is either disabled or unsupported by your browser.</noscript>
- 
-<script> 
-$('div.vids').hide();
-
-$('.vidLink').click(function(){
-    var id=$(this).data('id'),
-        thisDiv=$("div.vids[data-id='" + id +"']"),
-        thisVideo=$("div.vids[data-id='" + id +"']").find('vids');
-
-    $('vids').each(function () {
-        this.pause();
-        this.currentTime = 0;
-    });
-
-       $('div.vids').not(thisDiv).fadeOut();
-
-       thisDiv.fadeIn();
-       thisVideo.get(0).play();
-});
-</script> 
  
 </head>		
 <body> 
@@ -82,6 +59,29 @@ $('.vidLink').click(function(){
 </video>
 </div>
 </div>
+ 
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js'></script>
+<noscript>Some content cannot be displayed. JavaScript is either disabled or unsupported by your browser.</noscript> 
+<script>
+$('div.vids').hide();
+
+$('.vidLink').click(function(){
+    var id=$(this).data('id'),
+        thisDiv=$("div.vids[data-id='" + id +"']"),
+        thisVideo=$("div.vids[data-id='" + id +"']").find('vids');
+
+    $('vids').each(function () {
+        this.pause();
+        this.currentTime = 0;
+    });
+
+       $('div.vids').not(thisDiv).fadeOut();
+
+       thisDiv.fadeIn();
+       thisVideo.get(0).play();
+});
+
+</script>
  
 </body>
 </html>
