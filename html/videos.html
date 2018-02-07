@@ -1,0 +1,87 @@
+<!DOCTYPE HTML>
+<html lang="en-ie">
+<head>
+ 
+<meta charset="utf-8">
+<!-- Content="ie=edge" places IE into highest supported mode: EdgeHTML. -->
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<!--  Mobile-Optimisation: Viewport tag sets viewport's width and initial scale. -->
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+ 
+<title>Video Loader - JQuery</title>
+ 
+<link rel="canonical" href="https://github.com/Jimbobb3r/web/html/video.html">
+ 
+<meta name="description" content="Load videos into a div when image in a table is clicked">
+<meta name="abstract" content="Load videos into a div when image in a table is clicked">
+<meta name="subject" content="Load videos into a div when image in a table is clicked">
+<meta name="keywords" content="Github,Jimbobb3r,SDeLiath,Seamus,DeLiath,Jimbob,James,Leo,Load,different,videos,div,on,click, table,html,css,jquery,Template,">
+<meta name=”news_keywords” content=”Github,Jimbobb3r,Load,different,videos,div,on,click, table,html,css,jquery,Template,SDeLiath,Seamus,DeLiath,Jimbob,James,Leo”>
+<meta name="author" content="Jimbobb3r">
+<meta name="copyright" content="JimBobb3r">
+<meta name="rating" content="General">
+ 
+<!-- Icon -->	
+<link rel="apple-touch-icon" sizes="180x180" href="media/icon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="media/icon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="media/icon/favicon-16x16.png">	
+
+<link rel="stylesheet" type="text/css" href="css/videos.css">		
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>  <!-- jQuery CDN -->
+<noscript>Some content cannot be displayed. JavaScript is either disabled or unsupported by your browser.</noscript>
+ 
+<script> 
+$('div.vids').hide();
+
+$('.vidLink').click(function(){
+    var id=$(this).data('id'),
+        thisDiv=$("div.vids[data-id='" + id +"']"),
+        thisVideo=$("div.vids[data-id='" + id +"']").find('vids');
+
+    $('vids').each(function () {
+        this.pause();
+        this.currentTime = 0;
+    });
+
+       $('div.vids').not(thisDiv).fadeOut();
+
+       thisDiv.fadeIn();
+       thisVideo.get(0).play();
+});
+</script> 
+ 
+</head>		
+<body> 
+ 
+<table>
+  <tr>
+    <th>Column 1</th>
+    <th>Column 2</th>
+  </tr>
+  <tr>
+    <td>Video Name 1 <br>Video 1 Description</td>
+    <td class="vidLink" data-id="1"><img src="http://icons.iconarchive.com/icons/martz90/circle/256/video-camera-icon.png" height="32" width="32" alt="Click to play video 1" title="Video 1"></td>
+  </tr>
+  <tr>
+    <td>Video Name 2 <br> Video 2 Description</td>
+    <td class="vidLink" data-id="2"><img src="http://icons.iconarchive.com/icons/martz90/circle/256/video-camera-icon.png" height="32" width="32" alt="Click to play video 2" title="Video 2"></td>
+  </tr>
+</table>
+
+<div class="right">
+<div class="vids" data-id="1">
+<video class="vids" width="320" height="240" controls autoplay muted>
+<source src="http://video.webmfiles.org/elephants-dream.webm" type="video/webm" />
+</video>
+</div>
+ 
+<div class="vids" data-id="2" >
+<video class="vids" width="320" height="240" controls autoplay muted>
+<source src="http://video.webmfiles.org/big-buck-bunny_trailer.webm" type="video/webm" />
+</video>
+</div>
+</div>
+ 
+</body>
+</html>
