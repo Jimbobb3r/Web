@@ -29,6 +29,6 @@ ul.topnav li a.active {background-color: #111;}
 ul.topnav li.about {float: right;}
 
 @media screen and (max-width: 800px){
-    ul.topnav li.right, 
+    ul.topnav li.about, 
     ul.topnav li {float: none;}
 }
