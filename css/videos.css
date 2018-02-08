@@ -1,5 +1,5 @@
 .vidBox {
-    position: fixed; 
+    position: absolute; 
     background-color: lightgrey; 
     top: 80px;
     right: 80px;
