@@ -1,6 +1,5 @@
 .vidBox {
   	background-color: lightgrey; 
-    position: fixed;
     top: 80px;
     right: 80px;
     width: 380px;
@@ -27,4 +26,10 @@ table, th, td {
 
 th, td {
     padding: 10px;
+}
+
+
+@media screen and (max-width: 800px){
+    ul.topnav li.about, 
+    ul.topnav li {float: none;}
 }
