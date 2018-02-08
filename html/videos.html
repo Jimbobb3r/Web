@@ -60,9 +60,14 @@
     <td>Video Name 2 <br> Video 2 Description</td>
     <td class="vidLink" data-id="2"><img src="http://icons.iconarchive.com/icons/martz90/circle/256/video-camera-icon.png" height="32" width="32" alt="Click to play video 2" title="Video 2"></td>
   </tr>
+    <tr>
+    <td>Video Name 2 <br> Video 2 Description</td>
+    <td class="vidLink" data-id="2"><img src="https://www.youtube.com/watch?v=iupGC3hDg_I" height="32" width="32" alt="Click to play video 2" title="Video 2"></td>
+  </tr>
 </table> 
 
 <div class="vidBox">
+ 
 <div class="vids" data-id="1">
 <video width="640" height="360" controls autoplay muted>
 <source src="http://video.webmfiles.org/elephants-dream.webm" type="video/webm" />
@@ -74,10 +79,18 @@
 <source src="http://video.webmfiles.org/big-buck-bunny_trailer.webm" type="video/webm" />
 </video>
 </div>
-</div>
  
-<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js'></script>
+<div class="vids" data-id="2" >
+<video width="640" height="360" controls autoplay muted>
+<source src="https://www.youtube.com/watch?v=iupGC3hDg_I" type="video/webm" />
+</video>
+</div>
+  
+</div> <!-- vidBox -->
+  
+<!-- <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js'></script>
 <noscript>Some content cannot be displayed. JavaScript is either disabled or unsupported by your browser.</noscript> 
+-->
  
 <script>
 $('div.vids').hide();
