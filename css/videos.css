@@ -31,6 +31,6 @@ th, td {
 
 
 @media screen and (max-width: 800px){
-    ul.topnav li.about table div.vidBox,
-    ul.topnav li {float: none;}
+    table vidBox,
+    table vidBox {float: none;}
 }
