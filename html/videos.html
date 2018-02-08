@@ -23,13 +23,29 @@
  
 <!-- Icon -->	
 <link rel="apple-touch-icon" sizes="180x180" href="media/icon/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="media/icon/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="media/icon/favicon-16x16.png">	
+<link rel="icon" type="image/png" sizes="32x32" href="/web/media/icon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/web/media/icon/favicon-16x16.png">	
+ 
+ 
+<!-- <script src="https://use.fontawesome.com/543acc1e10.js"></script> Font Awesome -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>  <!-- jQuery CDN -->
+<noscript>Some content cannot be displayed. JavaScript is either disabled or unsupported by your browser.</noscript>
+
+<script> 
+  $(function(){
+  $("#navbar").load("/web/html/navbar.html"); 
+});
+</script> 	 
  
 <link rel="stylesheet" type="text/css" href="/web/css/videos.css">	 
  
 </head>		
 <body> 
+
+<!-- Navbar --> 	
+<nav>
+    <div id="navbar"></div>	
+</nav><!-- Nav Bar --> 
  
 <table>
   <tr>
