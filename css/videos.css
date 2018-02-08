@@ -33,5 +33,6 @@ th, td {
 @media (max-width:800px) {
   table, .vidbox, {
     width:100%; 
+    position: static;
   }
 }
