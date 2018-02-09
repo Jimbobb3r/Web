@@ -85,6 +85,7 @@ https://mydevice.io/devices/ <br>
 ## Search My Site: 
 https://cse.google.com/cse/ 
 http://www.tipue.com/search/ 
+https://www.freefind.com/ 
 
 ## Stuff: <br>
 - Countdown time from timeanddate.com: https://www.timeanddate.com/clocks/freecountdown.html <br> 
