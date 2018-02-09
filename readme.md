@@ -82,10 +82,10 @@ https://cssreset.com/ <br>
 ## Device Screen Sizes: <br>
 https://mydevice.io/devices/ <br>
 
-## Search My Site: 
-https://cse.google.com/cse/ 
-http://www.tipue.com/search/ 
-https://www.freefind.com/ 
+## Search My Site: <br>
+https://cse.google.com/cse/ <br>
+http://www.tipue.com/search/ <br>
+https://www.freefind.com/ <br>
 
 ## Stuff: <br>
 - Countdown time from timeanddate.com: https://www.timeanddate.com/clocks/freecountdown.html <br> 
