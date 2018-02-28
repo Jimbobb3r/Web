@@ -57,6 +57,9 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Element <br>
 - https://css-tricks.com/the-css-box-model/ <br>
 - https://www.w3schools.com/css/css_boxmodel.asp <br>
 - https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model <br>
+
+#### Bootstrap Layout <br> 
+- https://getbootstrap.com/docs/4.0/layout/grid/ 
   
 #### Grid Layout: <br>
 - https://css-tricks.com/snippets/css/complete-guide-grid/  <br>
