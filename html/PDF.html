@@ -6,20 +6,29 @@
 <title>Scrolling PDF Thing</title>
  
 <style> 
-.boxes {
-display: inline-block; 
- width:50%;
- } 
+#flex-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 500px;
+    border: 1px black solid;
+    margin: 0 auto;
+}
+
+.flex-item {
+    width: 100px;
+    height: 200px;
+    border: 1px black solid;
+    background: #369;
+}
 </style> 
  
 </head>		
 <body> 
 
-<div class="boxes">
-Left  
-</div>
-<div class="boxes">
-right  
+<div id="flex-container">
+        <div class="flex-box"></div>
+        <div class="flex-box"></div>
 </div>
 
 </body>
