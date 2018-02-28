@@ -11,6 +11,7 @@ display: inline-block;
 }
 
 table {
+  display: inline-block;   
   width= 250px;
   cellpadding="2";
   align="left";
