@@ -28,6 +28,7 @@
  
  
 <!-- <script src="https://use.fontawesome.com/543acc1e10.js"></script> Font Awesome -->
+<!-- <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js'></script> -->  
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>  <!-- jQuery CDN -->
 <noscript>Some content cannot be displayed. JavaScript is either disabled or unsupported by your browser.</noscript>
 
@@ -64,6 +65,10 @@
     <td>Video Name 3 <br> Video 3 Description</td>
     <td class="vidLink" data-id="3"><img src="http://icons.iconarchive.com/icons/martz90/circle/256/video-camera-icon.png" height="32" width="32" alt="Click to play video 2" title="Video 3"></td>
   </tr>
+  <tr>
+    <td>Youtube Video<br> Youtube iFrame Player</td>
+    <td class="vidLink" data-id="4"><img src="http://icons.iconarchive.com/icons/martz90/circle/256/video-camera-icon.png" height="32" width="32" alt="Click to play video 2" title="Video 3"></td>
+  </tr>
 </table> 
 
 <div class="vidBox">
@@ -85,13 +90,19 @@
 <source src="http://techslides.com/demos/sample-videos/small.mp4" type="video/mp4" />
 </video>
 </div>
-  
+ 
+<div class="vids" data-id="4" >
+<video width="360" height="240" controls autoplay muted>
+<source src="https://www.youtube.com/embed/Be-loLSUWT0?autoplay=1&fs=0&modestbranding=1&playsinline=1&rel=0&showinfo=0&color=white&iv_load_policy=3" />
+</video>
+</div>
+   
 </div> <!-- vidBox -->
   
-<!-- <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js'></script>
-<noscript>Some content cannot be displayed. JavaScript is either disabled or unsupported by your browser.</noscript> 
--->
- 
+<iframe id="ytplayer" type="text/html" width="368" height="207"
+src="https://www.youtube.com/embed/Be-loLSUWT0?autoplay=1&fs=0&modestbranding=1&playsinline=1&rel=0&showinfo=0&color=white&iv_load_policy=3"
+frameborder="0" allowfullscreen> 
+  
 <script>
 $('div.vids').hide();
 
