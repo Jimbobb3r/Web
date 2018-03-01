@@ -17,6 +17,10 @@ table {
     margin: 10px;
 }
 
+.vids {
+    display: inline-block;
+}
+
 img.centered {
     display: block;
     margin-left: auto;
