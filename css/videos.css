@@ -51,7 +51,7 @@ table {
 }
 
 .vidBox { 
-    position: absolute;
+    position: relative;
     display: inline-block;
     background-color: lightgrey; 
     width: 380px;
@@ -64,7 +64,7 @@ table {
 
 .text {
   position: relative; 
-  top: 150px;
+  top: 50px;
 }
 
 p {
@@ -81,6 +81,5 @@ th, td {
 
 
 @media (max-width:800px) {
-  .vidbox table,
-  .vidbox table {display: inline-block;}
+  .vidbox table .text,
 }
