@@ -45,8 +45,6 @@ th, td {
 
 
 @media (max-width:800px) {
-  .vidbox, table, text {
-    width:100%; 
-    position: relative;
-  }
+  .vidbox table .text,
+  table text {float: none;}
 }
