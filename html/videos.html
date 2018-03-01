@@ -52,26 +52,26 @@
 <div class="vidBox">
 <p>Choose a movie to play from the list.</p> 
 <div class="vids" data-id="1">
-<video width="360" height="240" controls autoplay muted>
+<video width="360" height="240" controls>
 <source src="/web/media/videosmedia/video1.mp4" type="video/mp4" />
 </video>
 </div> 
  
 <div class="vids" data-id="2" >
-<video width="360" height="240" controls autoplay muted>
+<video width="360" height="240" controls>
 <source src="/web/media/videosmedia/video2.mp4" type="video/mp4" />
 </video>
 </div>
  
 <div class="vids" data-id="3" >
-<video width="360" height="240" controls autoplay muted>
+<video width="360" height="240" controls>
 <source src="/web/media/videosmedia/video3.mp4" type="video/mp4" />
 </video>
 </div>
  
 <div class="vids" data-id="4" >
 <iframe id="ytplayer" type="text/html" width="360" height="240"
-src="https://www.youtube.com/embed/Be-loLSUWT0?autoplay=1&loop=1&modestbranding=1&playsinline=1&rel=0&showinfo=0&iv_load_policy=3"
+src="https://www.youtube.com/embed/Be-loLSUWT0?autoplay=0&loop=1&modestbranding=1&playsinline=1&rel=0&showinfo=0&iv_load_policy=3"
 frameborder="0" allowfullscreen>Your browser cannot display this content. Please use a different browser or click <a href="https://www.youtube.com/watch?v=Be-loLSUWT0">here</a> to watch the video.</iframe>
 </div>
    
@@ -100,6 +100,14 @@ frameborder="0" allowfullscreen>Your browser cannot display this content. Please
   </tr>
 </table>
 
+<p>To do list:</p> 
+<ol>
+  <li>One video should display in box when page loads</li>
+  <li>When video changes, previous selected video should stop playing</li>
+  <li>Navigation buttons in box to progress to next video or go back one video</li>
+  <li>Fix hacky positioning with Grid Layout or Bootstrap</li>
+</ol>
+ 
 </main> 
  
 <script>
