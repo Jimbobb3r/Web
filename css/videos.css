@@ -21,9 +21,14 @@ table {
 }
 
 img.centered {
-    display: block;
-    margin-left: auto;
-    margin-right: auto 
+  display: block; 
+  margin-left: auto; 
+  margin-right: auto 
+}
+
+.text {
+  position: relative; 
+  top: 450px;
 }
 
 p {
