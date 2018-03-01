@@ -1,16 +1,10 @@
 .vidBox {
-display: inline-block;
     background-color: lightgrey; 
     width: 380px;
     height: 300px;
     border: 3px solid;
     text-align: center;
     padding: 5px 5px;
-}
-
-.divTable
-{
-  display: inline-block;
 }
 
 table {   
