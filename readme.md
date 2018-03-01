@@ -59,7 +59,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Element <br>
 - https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model <br>
 
 #### Bootstrap Layout <br> 
-- https://getbootstrap.com/docs/4.0/layout/grid/ 
+- https://getbootstrap.com/docs/4.0/layout/grid/ <br>
   
 #### Grid Layout: <br>
 - https://css-tricks.com/snippets/css/complete-guide-grid/  <br>
@@ -75,6 +75,15 @@ https://cssreset.com/ <br>
 - Facebook Sharing Debugger https://developers.facebook.com/tools/debug/sharing/ <br>
 - Twitter Cards Markup https://developer.twitter.com/en/docs/tweets/optimize-with-cards/overview/abouts-cards <br>
 - Twitter Card Validator https://cards-dev.twitter.com/validator <br>
+
+### Embedding Youtube Videos: <br>
+- https://developers.google.com/youtube/player_parameters <br>
+
+### Embed docx, pptx, xlsx files: <br>
+- https://blogs.office.com/en-us/2013/04/10/office-web-viewer-view-office-documents-in-a-browser/ <br> 
+
+### Embed PDFs & Presntations with Google Drive View: 
+
  
 ## Colours:  <br>
 - MDN Colours https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Color_picker_tool <br>
