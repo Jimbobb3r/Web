@@ -1,5 +1,6 @@
 table {   
   display: inline-block; 
+  left: 350px;
   width= 250px;
   cellpadding="2";
   align="left";
