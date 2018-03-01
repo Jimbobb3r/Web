@@ -28,7 +28,7 @@ img.centered {
 
 .text {
   position: relative; 
-  top: 450px;
+  top: 150px;
 }
 
 p {
@@ -45,7 +45,7 @@ th, td {
 
 
 @media (max-width:800px) {
-  .vidbox table text {
+  .vidbox, table, text {
     width:100%; 
     position: static;
   }
