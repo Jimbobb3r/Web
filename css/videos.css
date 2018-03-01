@@ -45,6 +45,6 @@ th, td {
 
 
 @media (max-width:800px) {
-  .vidbox table .text,
-  table text {float: none;}
+  .vidbox table,
+  .vidbox table {display: inline-block;}
 }
