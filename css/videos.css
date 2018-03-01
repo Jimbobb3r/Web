@@ -1,3 +1,45 @@
+/+ IE10 snapped mode ignores the viewport tag. */
+
+@-ms-viewport{ width: device-width; initial-scale: 1; zoom: 1;}
+@-o-viewport { width: device-width; initial-scale: 1; zoom: 1;}
+@viewport { width: device-width; initial-scale: 1; zoom: 1;}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+margin:0;
+padding:0;
+height:100%;
+}
+
+#pagebg {
+     background: linear-gradient(grey, white); 
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#wrapper {
+min-height:100%;
+position:relative;
+}
+
+/*Footer: The value for 'padding-bottom' on #main must be equal to or greater than the height of #footer - check footer.css.*/
+#main {
+padding-bottom:150px; /* Height of the footer element */ 
+position:relative;
+}
+
+
+<!-- CSS for videos.html -->
+
 table {   
   position: relative; 
   display: inline-block; 
@@ -18,12 +60,6 @@ table {
     text-align: center;
     padding: 5px 5px;
     margin: 10px;
-}
-
-img.centered {
-  display: block; 
-  margin-left: auto; 
-  margin-right: auto 
 }
 
 .text {
