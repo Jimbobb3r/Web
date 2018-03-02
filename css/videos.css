@@ -39,48 +39,39 @@ position:relative;
 
 
 <!-- CSS for videos.html -->
-* { box-sizing: border-box; }
 
-.wrapper > div {
-    border-radius: 5px;
-    padding: 10px; 
-    border-style: solid; 
-    border-color: green;
-}
+.item3 { grid-area: main; }
+.item4 { grid-area: right; }
 
-.grid {
+.grid-container {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
-  grid-gap: 20px;
-  
+  grid-template-areas:
+    'main main main right right';
+  grid-gap: 10px;
 }
 
-
-/*Vids  */
-
-table {   
-  cellpadding="2";
-  align="left";
-  margin: 10px;
+.grid-container > div {
+  text-align: center;
+  padding: 20px 0;
+}
+ 
+table {    
+  width=250px; 
+  height=300px; 
+  cellpadding="2"; 
+  font-size: 1.5em;
 }
 
 table, th, td {
     border: 1px solid black; 
 }
 
-th, td {
-    padding: 10px;
-}
-
 .vidBox { 
-    position: relative;
-    display: inline-block;
     background-color: lightgrey; 
     width: 380px;
     height: 300px;
     border: 3px solid;
     text-align: center;
     padding: 5px 5px;
-    margin: 10px;
+    overflow-y: hidden; 
 }
-
