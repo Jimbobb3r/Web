@@ -91,15 +91,18 @@ https://cssreset.com/ <br>
 - Colour Blender https://meyerweb.com/eric/tools/color-blend/#:::hex <br>
 - Color Hex http://www.color-hex.com/ <br>
 
+## URL Encode/Decode: <br>
+- https://urldecode.org/ <br>
+
 ## Device Screen Sizes: <br>
 https://mydevice.io/devices/ <br>
 
 ## Search My Site: <br>
 https://cse.google.com/cse/ <br>
 http://www.tipue.com/search/ <br>
-https://www.freefind.com/ <br>
+https://www.freefind.com/ <br> 
 
-## Stuff: <br>
+## Timers: <br>
 - Countdown time from timeanddate.com: https://www.timeanddate.com/clocks/freecountdown.html <br> 
 - Simple Countdown timers: http://e.ggtimer.com/
 - Cool timer scripts: https://themehunt.com/blog/32-free-resources/70-10-stunning-free-countdown-timer-scripts-for-your-next-theme 
