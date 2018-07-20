@@ -27,6 +27,10 @@
     Multicoloured Hover Variations
 */
 
+#socmedicons #social-lkin:hover {
+  color: #0073b1;
+}
+
 #socmedicons #social-fb:hover {
   color: #3B5998;
 }
