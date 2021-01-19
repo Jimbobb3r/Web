@@ -1,8 +1,6 @@
 ## My Test Page:  <br>
 No content, usually broken... <br>
 - https://jimbobb3r.github.io/web/ <br>
-- www.jamesleo.tk <br>
-- www.jamescleo.tk <br>
 
 ## Useful Sites: <br>
  
